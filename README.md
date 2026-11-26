@@ -86,7 +86,7 @@ SimpleCalculator/
 
 1. Open your terminal in the project root directory (`simple-calculator`):
    ```powershell
-   cd "C:\Users\Baswaraj Tammewar\Downloads\simple-calculator\simple-calculator"
+   cd "C:\Users\ASUS\Downloads\simple calculator"
    ```
 
 2. Compile all source files into a `bin` directory:
